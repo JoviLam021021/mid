@@ -1,0 +1,113 @@
+.container{
+    width: 100%;
+    height: 80px;
+    background-color: #EAAA60;
+    display: flex;
+}
+
+.logo{
+    margin-left: 578px;
+}
+
+.color-lump1{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 8px;
+    background-color: #a1a1a1;
+    bottom: 0px;
+    position: absolute;
+}
+.mid1{
+    display: flex;
+    flex-wrap: wrap;
+    height: 540px;
+    justify-content: center;
+    background-image: url('1.png');
+    background-size: 110% 110%;
+    background-repeat: no-repeat;
+    align-items: center;
+}
+.txt1{
+    font-size: 36px;
+    text-align: center;
+    color: orange;
+    width: 100%;
+}
+.txt2{
+    font-size: 24px;
+    text-align: center;
+    color: rgb(161, 161, 161);
+    width: 100%;
+}
+.indexbox{
+    justify-content: center; 
+    width: 512px;
+    height: 320px;
+    padding: 10px;
+}
+.indexbox0{
+    width: 300px;
+    height: 200px;
+}
+.input{
+    padding-right: 100px;
+    display: flex;
+    justify-content: right;
+    margin: 20px;
+}
+.btn{
+    width: 100px;
+    height: 30px;
+    text-align: center;
+    line-height: 30px;
+    background-color: orange;
+    border-radius: 20px;
+    margin: auto;    
+}
+.txt3{
+    text-align: center;
+    margin: auto; 
+    margin-top: 10px;   
+}
+.btn1{
+    color: black;
+    text-decoration: none;
+}
+.p2img{
+    width: 100%;
+}
+.p2c{
+    display: flex;
+    justify-content: space-between;
+    width: 600px;
+    height: 200px;
+
+}
+.ctr{
+    display: flex;
+    justify-content: center;
+}
+.p2img1{
+    width: 175px;
+    height: 175px;
+}
+.p2img2{
+    width: 600px;
+    height: 175px;
+}
+body{
+    justify-content: center;
+}
+
+.p3c{
+    display: flex;
+    justify-content: space-between;
+
+}
+.p3img1{
+    width: 1080px;
+    height: 540px;
+}
